@@ -24,7 +24,6 @@
             <groupId>org.testng</groupId>
             <artifactId>testng</artifactId>
             <version>6.8</version>
-            <scope>test</scope>
         </dependency>
         <dependency>
             <groupId>org.seleniumhq.selenium</groupId>
@@ -35,7 +34,6 @@
             <groupId>io.github.tatools</groupId>
             <artifactId>sunshine-core</artifactId>
             <version>0.3.0</version>
-            <scope>compile</scope>
         </dependency>
     </dependencies>
 </project>
